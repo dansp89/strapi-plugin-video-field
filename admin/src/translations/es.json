@@ -1,0 +1,7 @@
+{
+  "video-field.label": "Video DSP",
+  "video-field.description": "Campo de video para YouTube, Vimeo, Facebook, Bunny. Por: DanSP",
+  "video-field.title": "URL del video",
+  "video-field.placeholder": "ej. https://vimeo.com/123456789",
+  "video-field.invalid.url": "URL de video inválida"
+}
